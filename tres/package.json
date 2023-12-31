@@ -23,7 +23,7 @@
   "dependencies": {
     "@tresjs/cientos": "2.1.2",
     "@tresjs/core": "2.1.2",
-    "three": "^0.152.2",
+    "three": "^0.157.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {

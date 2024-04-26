@@ -17,6 +17,6 @@ $ npm start
 ## Refs:
 
 - [What is Egg.js](https://eggjs.org/)
-- [What is WebContainer](https://blog.nxpkg.com/posts/introducing-webcontainers/)
-- [Edit on NxPKG ⚡️](https://nxpkg.com/edit/webcontainer-egg)
+- [What is WebContainer](https://blog.nxpkg.github.io/posts/introducing-webcontainers/)
+- [Edit on NxPKG ⚡️](https://nxpkg.github.io/edit/webcontainer-egg)
 - [GitHub](https://github.com/atian25/webcontainer-egg)

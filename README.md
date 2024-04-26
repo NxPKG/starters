@@ -2,7 +2,7 @@
 
 ## About this repository
 
-NxPKG uses Git repositories as the source of the __starter templates__ on [nxpkg.com](https://nxpkg.com). This repository contains the source code for several starter templates maintained by the NxPKG team and community.
+NxPKG uses Git repositories as the source of the __starter templates__ on [nxpkg.github.io](https://nxpkg.github.io). This repository contains the source code for several starter templates maintained by the NxPKG team and community.
 
 Some open-source projects maintain starter templates in their own repositories. For examples, see the [create-vite templates](https://github.com/vitejs/vite/tree/main/packages/create-vite) and the [`nuxt/starter` repository](https:github.com/nuxt/starter/tree/v3-nxpkg).
 
@@ -14,9 +14,9 @@ Contributions to this repository are welcome. We ask that contributors first ope
 2. Upgrading a template’s npm dependencies to new major versions.
 3. Changing many files in an existing template (except for formatting or cosmetic changes).
 
-__Please note:__ the presence of a starter template in this repository does not guarantee that this template will be included on nxpkg.com. The list of starter templates on nxpkg.com (pictured below) is currently hand-picked by the NxPKG team.
+__Please note:__ the presence of a starter template in this repository does not guarantee that this template will be included on nxpkg.github.io. The list of starter templates on nxpkg.github.io (pictured below) is currently hand-picked by the NxPKG team.
 
-<img width="872" alt="Screenshot of the list of starter templates on nxpkg.com" src="https://user-images.githubusercontent.com/1511906/223094313-879ff9ca-9825-4335-87f6-b32d94939945.png">
+<img width="872" alt="Screenshot of the list of starter templates on nxpkg.github.io" src="https://user-images.githubusercontent.com/1511906/223094313-879ff9ca-9825-4335-87f6-b32d94939945.png">
 
 ## License
 
